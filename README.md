@@ -13,3 +13,5 @@ Notebook Jupyter, com todo o processo analítico documentado;
 Dashboard interativo, voltado à visualização e comunicação dos resultados;
 
 Relatório final em PDF, estruturado no formato CAR (Context, Actions, Results), com foco nos impactos para o negócio.
+
+Dashboard (Tableau Public): https://public.tableau.com/app/profile/rosana.barbosa.dos.santos/viz/MonitoramentodeOperadoresIneficientesCallMeMaybe/Painel1#1
